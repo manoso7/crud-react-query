@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "this is title 1 updated",
+      "body": "this is body 1 updated"
+    },
+    {
+      "id": 2,
+      "title": "this is title 2",
+      "body": "this is body 2"
+    },
+    {
+      "id": "80c220cd-82de-4b02-b8cc-4e79c6074f71",
+      "title": "dd",
+      "body": "dd"
+    }
+  ]
+}
